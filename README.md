@@ -12,9 +12,9 @@
   - If we look compare the results based on budgeting per student, we can see that number only changed for $630-$644 range, which is explained by THS falling into that range with it's $638 per student spendings.
   - We can also notice that, suprisengly, schools with smaller budgets per student tend to perform better on overall passing scores.
   - If we look at the analysis of the district based on the size of the schools, we can see that average for Medium size schools, the size of THS, drop on average 0.01 to 0.05 point.
-  We can also notice that medium size schools perform a lot better than other size schools, based on all numbers.
-  THS along with the rest of the charter type schools also dropped between 0.01 and 0.03 pints on all average numbers, while the district type schools stayed the same.
-  Having looked through the numbers and analysis we can conclude that Math and Reading scores got affected negatevily by replacing the ninth-grade scores and both dropped points. Scores by school spending, as well as school size and type have all lost in their value due to replacing the ninth-grade scores.
+  - We can also notice that medium size schools perform a lot better than other size schools, based on all numbers.
+  - THS along with the rest of the charter type schools also dropped between 0.01 and 0.03 pints on all average numbers, while the district type schools stayed the same.
+  - Having looked through the numbers and analysis we can conclude that Math and Reading scores got affected negatevily by replacing the ninth-grade scores and both dropped points. Scores by school spending, as well as school size and type have all lost in their value due to replacing the ninth-grade scores.
 
 
 ## Summary
