@@ -17,7 +17,7 @@
   Having looked through the numbers and analysis we can conclude that Math and Reading scores got affected negatevily by replacing the ninth-grade scores and both dropped points. Scores by school spending, as well as school size and type have all lost in their value due to replacing the ninth-grade scores.
 
 
-## Summaary
+## Summary
 
   As was mentioned earlier in the report, having ran the analysis we see a negative change in both Math and Reading scores due to the replacement of the ninth-grade scores. Scores by school spending, as well as school size and type have all lost in their value due to replacing the ninth-grade scores.
   One of the challenging parts of this project was using the .loc just like in this example:
